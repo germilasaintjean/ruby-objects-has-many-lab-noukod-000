@@ -16,4 +16,3 @@ class Post
   end
 
 end
-© 2018 GitHub, Inc.
